@@ -54,7 +54,7 @@ mechanics using Python, listed below each module are the learning objectives.
 
 ## [Project #02 - NYSE random walk predictor](../projects/02_Analyze-data_project.md)
 
-In the [Stats and Monte Carlo](../module_02/04_Stats_and_Montecarlo) module, you created a Brownian motion model to predict the motion of particles in a fluid. The Monte Carlo model took steps in the x- and y-directions with random magnitudes. 
+In the [Stats and Monte Carlo](../module_02/04_Stats_and_Montecarlo.md) module, you created a Brownian motion model to predict the motion of particles in a fluid. The Monte Carlo model took steps in the x- and y-directions with random magnitudes. 
 
 This [random walk](https://en.wikipedia.org/wiki/Random_walk_hypothesis) can be used to predict stock prices. Let's take a look at some data from the New York Stock Exchange [NYSE](https://www.kaggle.com/dgawlik/nyse) from 2010 through 2017. 
 
